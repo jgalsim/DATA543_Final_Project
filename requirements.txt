@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+geopandas>=1.0
+requests>=2.31
+matplotlib>=3.8
+scikit-learn>=1.4
+py3dep>=0.17
+pygeohydro>=0.17
+rioxarray>=0.15
+rasterstats>=0.19
+shapely>=2.0
+pyarrow>=16.0
