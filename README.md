@@ -32,7 +32,7 @@ from google.colab import files
 uploaded = files.upload()
 ```
 
-Upload `flood_risk_project_fixed.zip`, then run:
+Upload `DATA543_Final_Project-main.zip`, then run:
 
 ```python
 !unzip -o DATA543_Final_Project-main.zip
