@@ -35,8 +35,8 @@ uploaded = files.upload()
 Upload `flood_risk_project_fixed.zip`, then run:
 
 ```python
-!unzip -o flood_risk_project_fixed.zip
-%cd /content/flood_risk_project_fixed
+!unzip -o DATA543_Final_Project-main.zip
+%cd /content/DATA543_Final_Project-main
 !pip install -r requirements.txt
 !python run_pipeline.py
 ```
